@@ -20,7 +20,7 @@ public final class MathOperators {
    *
    * @param args Command line arguments (not used).
    */
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
 
     // Input setup line. Allows for user input.
     final Scanner in = new Scanner(System.in);
